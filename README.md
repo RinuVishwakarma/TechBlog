@@ -1,4 +1,4 @@
-# DevBlogify - Simple Blog Website
+# TechBlog - Simple Blog Website
 
 ## Overview
 DevBlogify is a simple and intuitive blogging platform where users can add, edit, share, and filter blogs. The project is built with a modern tech stack and provides a seamless user experience.
@@ -6,7 +6,6 @@ DevBlogify is a simple and intuitive blogging platform where users can add, edit
 ## What's New
 - **Notifications Update:** Notifications now appear at the top of the page for improved visibility.
 - **Accessibility Enhancements:** Improved features for better accessibility and usability.
-- **Custom Validations:** Added custom validations for blog creation and updates to ensure accurate data input.
 - **Shimmering Effect:** Implemented a skeleton loader to improve UX while fetching data.
 
 ## Features
@@ -33,10 +32,7 @@ Ensure you have the following installed on your system:
 - npm or yarn
 
 ### Backend Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Yash-srivastav16/devblogify.git
-   cd devblogify
+1.cd devblogify
    cd backend
    ```
 2. Install dependencies:
@@ -88,7 +84,7 @@ Ensure you have the following installed on your system:
 - **React** for building the frontend.
 - **Material UI** for styling components.
 - **SQLite** for lightweight and efficient database management.
-- **Render & Vercel** for deployment services.
+- **Render & netlify** for deployment services.
 
 ## Screenshots
 
