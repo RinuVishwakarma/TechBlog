@@ -1,7 +1,7 @@
 # TechBlog - Simple Blog Website
 
 ## Overview
-DevBlogify is a simple and intuitive blogging platform where users can add, edit, share, and filter blogs. The project is built with a modern tech stack and provides a seamless user experience.
+TechBlog is a simple and intuitive blogging platform where users can add, edit, share, and filter blogs. The project is built with a modern tech stack and provides a seamless user experience.
 
 ## What's New
 - **Notifications Update:** Notifications now appear at the top of the page for improved visibility.
